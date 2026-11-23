@@ -1,0 +1,1 @@
+class Solution { function isValid($s) { $st = []; $d = [')' => '(', '}' => '{', ']' => '[']; for ($i = 0; $i < strlen($s); $i++) { $c = $s[$i]; if (!isset($d[$c])) $st[] = $c; else if (array_pop($st) !== $d[$c]) return false; } return empty($st); } }
