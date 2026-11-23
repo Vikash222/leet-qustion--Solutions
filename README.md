@@ -21,5 +21,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0020-valid-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
