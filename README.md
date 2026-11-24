@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
