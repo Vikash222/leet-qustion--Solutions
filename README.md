@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0018-4sum) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3934-smallest-unique-subarray](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +68,24 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3934-smallest-unique-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3934-smallest-unique-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
