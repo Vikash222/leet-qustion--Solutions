@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0022-generate-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Stack
 |  |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3360-stone-removal-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
