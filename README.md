@@ -8,6 +8,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3934-smallest-unique-subarray](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,8 +100,13 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0022-generate-parentheses) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Vikash222/leet-qustion--Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
